@@ -7,6 +7,6 @@ public class Hello1
       System.Console.WriteLine("Who's there?");
       System.Console.WriteLine("Hello.");
       System.Console.WriteLine("Hello who?");
-      System.Console.WriteLine("Hello go West Coast!");
+      System.Console.WriteLine("Hello go West Coast Eagles!");
    }
 }
